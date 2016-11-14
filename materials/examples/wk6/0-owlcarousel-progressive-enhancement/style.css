@@ -6,7 +6,7 @@
 ///
 ///
 *******************/
-.image-carousel .item img{
+.image-carrossel .item img{
   display: block;
   width: 100%; /* always stretch images to fill carousel container */
   height: auto;
@@ -63,7 +63,6 @@ body {
 }
 h1 { margin-bottom: 0.2em; }
 p { max-width: 35em; display: inline-block; }
-
 .image-carrossel .item{ margin: 3px; /* border in between carousel images */ }
 #footer {
   margin-top: 6em;
